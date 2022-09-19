@@ -10,7 +10,7 @@
 
 <h3 align="left">Interesting projects:</h3>
 
-- [Crafted Specially](/tom171296/CraftedSpecially) - Microservices in .NET, Kotlin mobile development
+- [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET, Kotlin mobile development
 
 
 <h3 align="left">Connect with me:</h3>
