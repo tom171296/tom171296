@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/tom-van-den-berg-953643127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TvdB" height="30" width="40" /></a>
 </p>
 
-[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=tom171296&count_private=true&show_icons=true)]()
+[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=tom171296&count_private=true&show_icons=true)](https://github.com/tom171296)
 
 
 <!--
