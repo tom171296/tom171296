@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom van den Berg</h1>
 <h3 align="center">Lead engineer, Speaker</h3>
 
-[![@tom171296's Holopin board](https://holopin.me/tom171296)](https://holopin.io/@tom171296)
-
 - 🔭 I’m currently working on [CraftedSpecially](https://github.com/tom171296/CraftedSpecially)
 - 🌱 I’m currently learning **Kotlin, mobile development**
 - 📝 I regularly write articles on [https://blognet.tech/](https://blognet.tech/)
@@ -22,6 +20,8 @@
 </p>
 
 [![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=tom171296&count_private=true&show_icons=true)](https://github.com/tom171296)
+
+[![@tom171296's Holopin board](https://holopin.me/tom171296)](https://holopin.io/@tom171296)
 
 
 <!--
