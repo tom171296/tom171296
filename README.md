@@ -2,7 +2,7 @@
 <h3 align="center">Lead engineer, Speaker</h3>
 
 - 🔭 I’m currently working on [CraftedSpecially](https://github.com/tom171296/CraftedSpecially)
-- 🌱 I’m currently learning **Kotlin, mobile development**
+- 🌱 I’m currently learning **Creating custom github actions**
 - 📝 I regularly write articles on [https://blognet.tech/](https://blognet.tech/)
 - 💬 Ask me about **C#/.Net, Azure and microservices**
 - 📫 How to reach me, **t.vandenberg.96@gmail.com**
@@ -10,7 +10,8 @@
 
 <h3 align="left">Interesting projects:</h3>
 
-- [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET, Kotlin mobile development
+- [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET
+- [Run Stryker.Net github action](https://github.com/tom171296/run-stryker-net) - Custom github action
 
 
 <h3 align="left">Connect with me:</h3>
