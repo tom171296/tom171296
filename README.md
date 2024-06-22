@@ -2,7 +2,7 @@
 <h3 align="center">Lead engineer, Speaker</h3>
 
 - 🔭 I’m currently working on [CraftedSpecially](https://github.com/tom171296/CraftedSpecially)
-- 🌱 I’m currently learning **Creating custom github actions**
+- 🌱 I’m currently learning **Building digital immune systems on Azure**
 - 📝 I regularly write articles on [https://blognet.tech/](https://blognet.tech/)
 - 💬 Ask me about **C#/.Net, Azure and microservices**
 - 📫 How to reach me, **t.vandenberg.96@gmail.com**
