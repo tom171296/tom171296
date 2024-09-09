@@ -11,7 +11,7 @@
 <h3 align="left">Interesting projects:</h3>
 
 - [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET
-- [Run Stryker.Net github action](https://github.com/tom171296/run-stryker-net) - Custom github action
+- [ChainGuardian DOTNET NuGet](https://github.com/tom171296/run-stryker-net) - Supply chain security
 
 
 <h3 align="left">Connect with me:</h3>
