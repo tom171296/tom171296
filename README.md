@@ -13,6 +13,7 @@
 - [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET
 - [ChainGuardian DOTNET NuGet](https://github.com/tom171296/ChainGuardian.DotNetNuGet) - Supply chain security
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimless321" alt="aimless321" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
