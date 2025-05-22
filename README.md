@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Building digital immune systems on Azure**
 - 📝 I regularly write articles on [https://blognet.tech/](https://blognet.tech/)
 - 💬 Ask me about **C#/.Net, Azure and microservices**
-- 📫 How to reach me, **t.vandenberg.96@gmail.com**
 - 📄 Know about my experiences, [linkedin](https://www.linkedin.com/in/tom-van-den-berg-953643127/)
 
 <h3 align="left">Interesting projects:</h3>
