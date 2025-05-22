@@ -13,9 +13,6 @@
 - [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET
 - [ChainGuardian DOTNET NuGet](https://github.com/tom171296/ChainGuardian.DotNetNuGet) - Supply chain security
 
-<h3 align="left">Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tom171296" alt="tom171296" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/TomB_171296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tom van den Berg" height="30" width="40" /></a>
