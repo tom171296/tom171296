@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tom van den Berg</h1>
 <h3 align="center">Lead engineer, Speaker</h3>
 
-- 🔭 I’m currently working on [CraftedSpecially](https://github.com/tom171296/CraftedSpecially)
-- 🌱 I’m currently learning **Building digital immune systems on Azure**
+- 🌱 I’m currently learning **Building digital immune systems**
+- 📚 Creating a [secure SDLC agentic knowledge base as Plugin](https://github.com/tom171296/plugin_secure-SDLC)
 - 📝 I regularly write articles on [https://blognet.tech/](https://blognet.tech/)
-- 💬 Ask me about **C#/.Net, Azure and microservices**
 - 📄 Know about my experiences, [linkedin](https://www.linkedin.com/in/tom-van-den-berg-953643127/)
 
 <h3 align="left">Interesting projects:</h3>
 
 - [Crafted Specially](https://github.com/tom171296/CraftedSpecially) - Microservices in .NET
 - [ChainGuardian DOTNET NuGet](https://github.com/tom171296/ChainGuardian.DotNetNuGet) - Supply chain security
+- [Secure SDLC Plugin](https://github.com/tom171296/plugin_secure-SDLC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
